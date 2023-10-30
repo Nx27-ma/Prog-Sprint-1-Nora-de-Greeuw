@@ -1,0 +1,14 @@
+{
+  "name": "prog-les-2",
+  "version": "0.0.0",
+  "description": "prog les 2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
